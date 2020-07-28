@@ -4,13 +4,15 @@
 ## ■ 論文要約フォーマット（要約バージョン）
 
 ```
-layout: post
+## 0. 論文情報・リンク
 
-title:  "論文タイトル"
-
-date:   YYYY-MM-DD
-
-categories: CV NLP Others
+- 論文タイトル：
+- 論文リンク：https://
+- 公開日時：2020/
+- 組織：
+- 被引用数（記事作成時点）：3 件
+- 実装コード：https://github.com/hlzhu09/Hierarchical-Human-Parsing
+- Publication :
 
 ## 1. どんなもの？
 
@@ -29,5 +31,6 @@ categories: CV NLP Others
 ### 論文情報・リンク
 
 * [著者，"タイトル，" ジャーナル名，voluem，no.，ページ，年](論文リンク)
+
 
 ```
