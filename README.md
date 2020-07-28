@@ -12,7 +12,7 @@
 - 組織：
 - 被引用数（記事作成時点）：3 件
 - 実装コード：https://github.com/hlzhu09/Hierarchical-Human-Parsing
-- Publication :
+- Publication：
 
 ## 1. どんなもの？
 
