@@ -29,3 +29,5 @@
 ## 6. 次に読むべき論文はあるか？
 
 ```
+
+<img width="1437" alt="ochiai" src="https://user-images.githubusercontent.com/35659728/88673569-bc36f400-d123-11ea-867d-b995c8ea4c2d.png">
